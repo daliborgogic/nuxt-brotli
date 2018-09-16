@@ -5,12 +5,12 @@
 ## Installation
 
 ```bash
-$ npm i daliborgogic/nuxt-brotli
+$ npm i nuxt-brotli
 ```
 
 ## Usage
 
-Add ```daliborgogic/nuxt-brotli``` to modules section of ```nuxt.config.js```
+Add ```nuxt-brotli``` to modules section of ```nuxt.config.js```
 
 ```javascript
 {

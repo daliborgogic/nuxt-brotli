@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-brotli",
+  "version": "1.0.0",
+  "description": "This Nuxt.js module compresses assets with Brotli compression algorithm using `iltorb]` library for serving it with `ngx_brotli`",
+  "main": "lib/module.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "release": "standard-version && git push --follow-tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliborgogic/nuxt-brotli.git"
+  },
+  "keywords": [
+    "nuxt",
+    "module",
+    "brotli"
+  ],
+  "author": "Dalibor Gogic <mail@daliborgogic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daliborgogic/nuxt-brotli/issues"
+  },
+  "homepage": "https://github.com/daliborgogic/nuxt-brotli#readme",
+  "dependencies": {
+    "brotli-webpack-plugin": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
+}

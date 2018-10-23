@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/daliborgogic/nuxt-brotli/compare/v1.1.0...v1.1.1) (2018-10-23)
+
+
+### Bug Fixes
+
+* change the development check ([421ad34](https://github.com/daliborgogic/nuxt-brotli/commit/421ad34))
+* restore module configurations ([4f9106d](https://github.com/daliborgogic/nuxt-brotli/commit/4f9106d))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/daliborgogic/nuxt-brotli/compare/v1.0.3...v1.1.0) (2018-10-20)
 

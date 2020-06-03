@@ -1,6 +1,6 @@
 {
   "name": "@daliborgogic/nuxt-brotli",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "This Nuxt.js module compresses assets with Brotli compression algorithm using `iltorb]` library for serving it with `ngx_brotli`",
   "main": "lib/module.js",
   "directories": {
@@ -28,9 +28,9 @@
   },
   "homepage": "https://github.com/daliborgogic/nuxt-brotli#readme",
   "dependencies": {
-    "brotli-webpack-plugin": "^1.0.0"
+    "brotli-webpack-plugin": "^1.1.0"
   },
   "devDependencies": {
-    "standard-version": "^4.4.0"
+    "standard-version": "^8.0.0"
   }
 }
